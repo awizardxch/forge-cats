@@ -1,0 +1,313 @@
+{
+  "version": 1,
+  "provider": {
+    "name": "The Forge",
+    "url": "https://github.com/awizardxch/forge-cats"
+  },
+  "network": "mainnet",
+  "generated_at": "2026-10-22T07:13:31.998Z",
+  "ttl_seconds": 86400,
+  "xch_usd": null,
+  "tokens": [
+    {
+      "asset_id": "13f588bbaeec8672ed15f4915eda4e06ae29ee5dfe82b956b1222c2831dd428d",
+      "name": "FLP - 💎🛸🪙",
+      "ticker": "⚒️💎🛸🪙",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 💎🛸🪙",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1653a1df583f3ae6a822ab214b74d2a08fb4309025d54f2db140e5e6bc06e9da",
+      "name": "🧙‍♂️",
+      "ticker": "MANA",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/986f420582743db4861c4b9083b4f8330c4858933e38ee1b998f28ac3ce90235.webp",
+      "description": "🧙‍♂️",
+      "decimals": 3
+    },
+    {
+      "asset_id": "17397cc0cf79b7445677f09f984d2e191ef4b085591a1202eb8852fabeec79d7",
+      "name": "FLP - 🧙‍♂️✨❤️‍🔥🧙‍♂️",
+      "ticker": "⚒️🧙‍♂️✨❤️‍🔥",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🧙‍♂️✨❤️‍🔥🧙‍♂️",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1ad673d21799c9a224014ca71f9fe07cbc836fa23fa97b3be275d46d0b8bd9da",
+      "name": "NeckCoin",
+      "ticker": "NeckCoin",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/928f8b50adcd2584b82c83f113c2bc853ebdfd0b7d54e2d5f8c4056e430c1b2b.webp",
+      "description": "The Only Coin a NEckBeard Punk Should Ever Need!",
+      "website": "https://twitter.com/DegenWaffle_NFT",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1b978c1de590b5a630d2fd9550ff17d4dbfcfcd325c86f1221d7938b5ad7a226",
+      "name": "FLP - 🛸 XCH",
+      "ticker": "⚒️🛸XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🛸 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1e4e33b858823a681f0377efe9afa77160f82b06e7dd4ba094c0d360dc430795",
+      "name": "SEC",
+      "ticker": "🪙",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/8404b4268cfe47985c09cc12dd56e2d9aa4c5bff1dd6271dd9a8fbe41e767bc1.webp",
+      "description": "S.E.C. — SpaceScan Eternal Cat is a memecoin born from the legendary S.E.C. NFT collection on Chia \"coins not approved by the SEC\". The S.E.C. collection helped support both the wizard community and SpaceScan through 99% on chain royalties. \n\nDisclaimer: S.E.C. is a meme created",
+      "decimals": 3
+    },
+    {
+      "asset_id": "231504fee3aae24fafed39872a933c20d66d816107c257d87582e9a4ce8ba5ff",
+      "name": "FLP - Gyatt BEPE",
+      "ticker": "⚒️Gyatt BEPE",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: Gyatt BEPE",
+      "decimals": 3
+    },
+    {
+      "asset_id": "383fc8ce5ca6d5ee68e74007da856fab938f76cd866c9f879b9381be461a6d31",
+      "name": "Juliet",
+      "ticker": "JULIET",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/d4b15c96d2a0b27d80714bda0cf313016f027fe52e77fb5f7854faab2740f96d.webp",
+      "description": "JULIET is Tiger Saint Romeo's first token. 800 total coins given out to rad people.",
+      "decimals": 3
+    },
+    {
+      "asset_id": "38a5071bab76410b155d073c9780fe38555d24ddec1a2b64e8f3392864e11978",
+      "name": "WOJAK",
+      "ticker": "WOJAK",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/c0475471fbfcb6ebb196ba965cf0551b75c2e993616cbc0fb858dfaed9210c22.webp",
+      "description": "Wojak CAT is the heart-and-soul token of the Wojak Farmers Plot NFT culture — minted with meme spirit and shared directly with the owners of Wojak Farmer Plot NFTs as a celebration of creativity, community, and decentralized fun. Born from the fertile fields of Chia Wizards and t",
+      "decimals": 3
+    },
+    {
+      "asset_id": "3be1a7565bcb640702ae8f301ff82b194f41bbfb3e4c93d6c03652addf1affb3",
+      "name": "FLP - BEPE XCH",
+      "ticker": "⚒️BEPE XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: BEPE XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "451708c79b0fa7224019e77eefd80e7f9e90e869f14a6dd8ed0c578ff0516218",
+      "name": "FLP - 🍕 XCH",
+      "ticker": "⚒️🍕XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🍕 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "54d63adab6eaa7ecd4af533c53aaf25e7907859101fff2c49c993d23ad687191",
+      "name": "FLP - 🍫🌮 XCH",
+      "ticker": "⚒️🍫🌮XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🍫🌮 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "6188396ebb38365be3f7aad1d5c0310d1b6ce66180d8847e5da096e2ce33ba1a",
+      "name": "GYATT",
+      "ticker": "GYATT",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/837dc8e67e47d9540fabdf1b2b22a0c36929eb1c7701f2ba0b5ee915e2256a82.webp",
+      "description": "GYATT BEPE",
+      "decimals": 3
+    },
+    {
+      "asset_id": "6bb8e6fe13f11c9d58c0adaab5f5084292a63beb634731d64499e9377f5a60bf",
+      "name": "FLP - 💎 XCH",
+      "ticker": "⚒️💎XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 💎 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "6d570d6f843e6fdcec1ae52ae750b64df389a1f10f9c9a9fdb6e3469105319d6",
+      "name": "FLP - JULIET XCH",
+      "ticker": "⚒️JULIET XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: JULIET XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "70010d83542594dd44314efbae75d82b3d9ae7d946921ed981a6cd08f0549e50",
+      "name": "LOVE",
+      "ticker": "❤️",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/a9369cd9332b7f7e2c985d7a5cad6def3265e93d8fc8016cc303571bd29724ac.webp",
+      "description": "🚀 ❤️ Love Sprouted 🌱 from the 🍊 Tang Gang, Planting Seeds and Expanding the Universe with a Little Magic ✨ from a Wizard and the Lovable 🐻 Love Bears! 🌟 Join the Whimsy! Learn More about ❤️ Love Token #LoveToken #TangGang #SproutYourMagic",
+      "website": "https://twitter.com/lovebear_xch",
+      "decimals": 3
+    },
+    {
+      "asset_id": "75c74892331a0509504ca78412c24b8892a47fc66ce97764b89cda01059831d7",
+      "name": "FLP - 🪙 XCH",
+      "ticker": "⚒️🪙XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🪙 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "7efaf99ff679580895658ab0cbff92e5d68b24ba162432de3ed61414077f4a5c",
+      "name": "FLP - ✨❤️‍🔥🧙‍♂️ XCH",
+      "ticker": "⚒️✨❤️‍🔥🧙‍♂️XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ✨❤️‍🔥🧙‍♂️ XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "809060ebd276f49d133b2fa32d1c5d90797a3561adece5fa4f0d84fc6790692b",
+      "name": "FLP - ⚒️🧙‍♂️",
+      "ticker": "⚒️🧙‍♂️",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚒️🧙‍♂️",
+      "decimals": 3
+    },
+    {
+      "asset_id": "8df67763ad273f4a08f8f19f8a172d80b38ad940f32fe20b0b2ed3d665edf575",
+      "name": "Choco Taco",
+      "ticker": "🍫🌮",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/05866eea19eccd9db64ab52ec7827096f8757a36c0d28afba6831dac36f7da0b.webp",
+      "description": "The Choco Taco stopped production in 2022 we have now brought it back only on the @chia_project blockchain in token form there are only 2022 🍫🌮",
+      "decimals": 3
+    },
+    {
+      "asset_id": "95430751e3894b48820b7da497f04abd0e46fe6d982fa98daf174ff1e35159bd",
+      "name": "TIGER BLOOD",
+      "ticker": "🐯🩸",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/3dc1611d8fc9c2d291f2d8eba26075e4597f2b43524ece3f449ade1f48c46d71.webp",
+      "description": "This is a flying magic carpet rug.",
+      "decimals": 3
+    },
+    {
+      "asset_id": "9d41437a5a5e902b6c2c0dba8a90b497464aed631f2c9d5bfbaf24a005f833a6",
+      "name": "FLP - 🪄⚡️ XCH",
+      "ticker": "⚒️🪄⚡️XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🪄⚡️ XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "a09af8b0d12b27772c64f89cf0d1db95186dca5b1871babc5108ff44f36305e6",
+      "name": "Caster",
+      "ticker": "✨❤️‍🔥🧙‍♂️",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/e707447bad26576e437ed09d924f9e468dfd0b4fde5f8dc2a469f8e569c72079.webp",
+      "description": "Introducing Caster, the MeMe coin sensation on Chia, weaving Magic and Spell Casting into your digital transactions. Whether you're a Seasoned Wizard or just stepping into the Mystical Realm, Caster invites everyone to Spread Love, plant Seeds and create Enchantment on the blockc",
+      "decimals": 3
+    },
+    {
+      "asset_id": "ab558b1b841365a24d1ff2264c55982e55664a8b6e45bc107446b7e667bb463b",
+      "name": "SPROUT",
+      "ticker": "🌱",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/deb02b97ddf33dd8ab45219e3febeb4bdc077bc78e6f8b1b7d39cbf7942407b7.webp",
+      "description": "Seeding Potential Randomness Over Usage Time S.P.R.O.U.T. is the Ultimate Meme Token on the Chia Blockchain. Where the only constant is the unpredictability of its growth and the randomness of price. Expect no return but rather chaos through the wild journey on the green network",
+      "website": "https://twitter.com/aWizardxch",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b2df9f4d4fe4ac522314bf069b2b5ee751c8bb76a1dcff98ef5373561e3c494d",
+      "name": "FLP - Neckcoin XCH",
+      "ticker": "⚒️Neck XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: Neckcoin XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b76c958d0e7362814a0fa549638bd7f60b3b16c5906d85e5c8936a2a82a60319",
+      "name": "FLP - 🐯🩸 XCH",
+      "ticker": "⚒️🐯🩸XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🐯🩸 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b8d8dce139e59b68340bf934b26a33223edfaa614c839eccbada655d75c90f9d",
+      "name": "FLP - Gyatt XCH",
+      "ticker": "⚒️Gyatt XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: Gyatt XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "be426f83cf3915321509b809a7efee867df3cb42745db40169ee5a25cdae8d81",
+      "name": "FLP - MANA XCH",
+      "ticker": "⚒️MANA XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: MANA XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "cb0ede34fda366f9733f602c82ecf5c5e00f0710bf5a03e40afe54239eca6ccd",
+      "name": "UFO",
+      "ticker": "🛸",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/7ef9c8447388f951a30d58a5a331216827a4b8ee9bab49c74afa1d48a0ad9068.webp",
+      "description": "WARNING: First Contact has been established. The Casters opened the portal, UFOs came through, and now the S.E.C. is investigating reports of alien meme activity. Holders may experience tractor beams, missing cows, moon missions, and severe candles. This is not financial advice.",
+      "decimals": 3
+    },
+    {
+      "asset_id": "ccda69ff6c44d687994efdbee30689be51d2347f739287ab4bb7b52344f8bf1d",
+      "name": "BEPE",
+      "ticker": "BEPE",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/428bc9bed6e25c5fffd7711861941c66edbbd3ffb9b541d4af93d10eab563500.webp",
+      "description": "BEPE, the memecoin Chia BitTorrent wizard would unleash if he ever released his inner degen",
+      "website": "https://bepearmy.com/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "dc19e663e4659cb9b3ef124801eba87bb2fc213a6d4dea949b3dfcc327aef764",
+      "name": "FLP - 🌱 ❤️",
+      "ticker": "⚒️🌱❤️",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🌱 ❤️",
+      "decimals": 3
+    },
+    {
+      "asset_id": "dd04b207f6be7cc919004472512abaecc0aa0a5018334f32134bdfa78bb985c1",
+      "name": "FLP - ❤️ XCH",
+      "ticker": "⚒️❤️XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "dd37f678dda586fad9b1daeae1f7c5c137ffa6d947e1ed5c7b4f3c430da80638",
+      "name": "PIZZA 🍕",
+      "ticker": "🍕",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/93de7fab81c527751c1e8e7c82a82a1504d1d8b69c1adc9244bb8bce9aa85950.webp",
+      "description": "PIZZA 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e335003c6d59aaaabe27eeeaf8a7b1308765f6bc9492a0b16394f50dec6bdcb7",
+      "name": "HODL",
+      "ticker": "💎",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/2508c48b5bca3d0604834720e2ab1d003ce132074c407626853b812c98907d13.webp",
+      "description": "Introducing HODL 💎, a liquidity reward memecoin built for people who actually show up, designed to reward presence over promises and participation over passive holding. Instead of short-term farming or idle wallets, HODL distributes rewards exclusively to liquidity providers thr",
+      "decimals": 3
+    },
+    {
+      "asset_id": "eb2155a177b6060535dd8e72e98ddb0c77aea21fab53737de1c1ced3cb38e4c4",
+      "name": "Spell Power",
+      "ticker": "🪄⚡️",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/692f2b09b5a8bb77326702edb3a5cd64d5fae2d96e52ef816f9a24e9eba3cffb.webp",
+      "description": "Spell Power is Cast to the Wizards in the Chia Economy, incentivizing participation in the Chia Community by providing a magical token that unlocks the potential of NFT and CAT assets. The more you hold, the Higher Your Spell Casting Potential—but be warned, some Spells are Stron",
+      "decimals": 3
+    },
+    {
+      "asset_id": "f1547da05b8f2a1c6dce9ff98b4c61dc2ff36980b4695792ae2d41f5aca236d8",
+      "name": "FLP - WOJAK XCH",
+      "ticker": "⚒️WOJAK XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: WOJAK XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "f994df020df3b4616c445b5a2a955fbb4216beb1ce3ee3ac4aa75f8b2bc67db5",
+      "name": "FLP - 🌱 XCH",
+      "ticker": "⚒️🌱XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🌱 XCH",
+      "decimals": 3
+    }
+  ]
+}
