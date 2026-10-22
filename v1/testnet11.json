@@ -1,0 +1,905 @@
+{
+  "version": 1,
+  "provider": {
+    "name": "The Forge",
+    "url": "https://github.com/awizardxch/forge-cats"
+  },
+  "network": "testnet11",
+  "generated_at": "2026-10-22T01:50:59.952Z",
+  "ttl_seconds": 86400,
+  "xch_usd": null,
+  "tokens": [
+    {
+      "asset_id": "05ac6acedbef4595bb310e02859cc06d9ccf22aad5516aee23a61733a59b85fe",
+      "name": "FLP - TXCH ⚡💵",
+      "ticker": "TXCH/t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "05bfd1b8dc79d76d04a3e054d4cfe10b3762b157897a1ce889d08eaf2b59404b",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "0bcd35fbe10164192e571a58d4e6f2af6d646d6a027f2ae8d75cc911e8255dcd",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1172106b4d6ddfa5517d85d4369a27bb7569633267ca3fb8d60cd514bd04f790",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "11a94c2c5abf450a8d5e16d4a9091e1562fa163f3c0bda679f871fc46573be82",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1341d936632cdc5bf3d6675cfcade6f3c75f51cfc09f19b1e53b96e4c364c653",
+      "ticker": "🛸 T11",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1c93faad3c169c36e1468d7c1246e38d99916b370d491dbb5228e67619882413",
+      "name": "FLP - ⚡",
+      "ticker": "t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1e47de34dfaac1af2b26eec9da6ba124b169947c1ade4f53338d1d467580038d",
+      "name": "FLP - TXCH ⚡💵",
+      "ticker": "TXCH/t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "1ead482c53b765b6afeeb0920e0bf39ea22caaffa9a8861334b5ef3ef372e045",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "26177b92ff467e1ea82f35034688cb702fe95cb5534c0a6e191e516694580375",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "27281021b9c093005d655dfe1de5ecddf02ac24a3c974ccd9a9f9136d1a2b42f",
+      "name": "FLP - TXCH ⚒️TXCH ⚡",
+      "ticker": "TXCH/LP TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "27bb63cd43ad47844870ebf62b92e382a0706da246ff9a748315f171559d0b56",
+      "name": "FLP - TXCH 🛸",
+      "ticker": "TXCH/T11",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸",
+      "decimals": 3
+    },
+    {
+      "asset_id": "2e62cbff45485f331fe65642efb8ee525fcd26f291cc601cfcc2bc7e6c26b770",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "2e8e02e5be2d08ba4671e58235222436ccfd55f78f257477921fcead21a6c770",
+      "name": "FLP - TXCH ⚒️⚡",
+      "ticker": "TXCH/LP t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "2ee50489d983f7989b7d29b515d8a7af3985cf905c68972b49202a433500791c",
+      "name": "FLP - 🍕",
+      "ticker": "T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "3038285675240fcc53d9f3c4ac6e98c1691533be36386d6428d1c096d2d24557",
+      "name": "FLP - TXCH 🍕",
+      "ticker": "TXCH/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "31b4d8fb476c0887fbe71063296f6953e8e6adf91636820d28ba6f628d01445f",
+      "name": "FLP - ⚡🍕",
+      "ticker": "t14/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "348cbf7443fa22e1902b40d95efef72734ce9be2977cebf29a2510014e2a845c",
+      "ticker": "⚡ t14",
+      "decimals": 3
+    },
+    {
+      "asset_id": "35907c386036f47d5e1d8143df070dfc7cc0c139110da68f720b72421245a460",
+      "name": "FLP - TXCH 🛸🍕",
+      "ticker": "TXCH/T11/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "366330b4101b69278d0effaa7dd764e63e5cbadded3db9c4a547645b2b53f2c1",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "4104f4f73104d7c72834ee4466ba8e4faa81062b3bb9726ec0c0070189bc1887",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "45c07c10e24fbbd9160fab538d5ed3d54395f4c086e1c64800492bf493d07299",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "493aef4b6712e561f88b9b6458aaecd000e83d78111bb910795a81f5317838fe",
+      "name": "FLP - TXCH 🛸⚡💵🍕",
+      "ticker": "TXCH/T11/t14/t8/",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸⚡💵🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "4c48130aa3bee421e2a8f3372d14b62e30aafe18465259def346758183cba8d2",
+      "name": "FLP - TXCH ⚒️TXCH 💵",
+      "ticker": "TXCH/LP TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "4d0f557fe85ade31d2920a44dd2e3d8df3256f728a11aa92ae7afb668670c0f6",
+      "name": "FLP - 💵",
+      "ticker": "t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "4d8774f301e99109cd682ca8b7238ee0f885b16d0dd024c1f2a9e9d8e4f54f1d",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "4fc5827cc868c5d08a33c7d23d2aee20e7c15468ba89b4326d073285ba292855",
+      "name": "FLP - 💵",
+      "ticker": "t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "4fd4313a9fbce6347f7a5e23103304a5b76ae2455300c98d35803be6eccd7c9a",
+      "name": "FLP - TXCH ⚒️TXCH 💵",
+      "ticker": "TXCH/LP TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "50f92b91920b2d4e99c258bf20fa23a456419495d688ef3862ff116e2a622281",
+      "name": "FLP - TXCH 🛸⚡💵🍕",
+      "ticker": "TXCH/T11/t14/t8/",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸⚡💵🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "521d6fec088bcff142bb567f49a0733e76dc3d7f7248a3986498003653c610a0",
+      "name": "FLP - TXCH 🛸⚡🍕",
+      "ticker": "TXCH/T11/t14/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸⚡🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "53cac6aa8aff54bbefb303efa36a76e09ddd2343cf1218c4a99ce4fc7f9fe997",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "5468c966da40210fef34f309eb307c80609361a6ca204d982f34d849a901a446",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8 3:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "54b137ab56d223f0fae28f8243553cb3a6088e9d7624a8e93f46b6991601e5cf",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "5c2b51ddab42b70151d462b222f3bf07512d254247d77b655de1354c73ec5b1e",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "5c2f755807fb5ed9d7e11299160c9772b11ded080c5c35a7418344ad74fba894",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "5d48cdbb30c00a924ebfb06564c96aae67877f006a1236c7fcf412bf3e5123de",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "626f0a993c689dc83a9441b32f6b08e46b964a9937c31cd040bb090704d2a08a",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "67222352881287d455601ed52c6b3144782558c1a0a338363e839e88fded48e2",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "675c8ffaf94da6c44a862f6be650fd9c1a9c777fe8fc027403fd5d75537f2bdf",
+      "name": "FLP - TXCH 🛸🍕",
+      "ticker": "TXCH/T11/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "68cc24e252d25d28bb1db8cb25d82a70049b509a2c6dc3559994d3b97bb44aa0",
+      "name": "FLP - ⚡💵🍕",
+      "ticker": "t14/t8/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "6a1f1ece8f237001f9d596cc356602c1cf09b56557f53fe1ac66f48fd92e1730",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "6fa310771cc1ada15d4380f4c1f4efba75d822bc0f1ed6b16b2e5a439d9a6858",
+      "name": "FLP - 🛸🍕",
+      "ticker": "T11/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🛸🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "723efe73cc2ad8ed9b1beb92b782d213b096ad45be04c8b59e32491fa24d148b",
+      "name": "FLP - ⚡🍕",
+      "ticker": "t14/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "73092f2333dbd6b0f46a1c3a09745f2c6631df5af6c9a8f9805785cd09fdc7f4",
+      "name": "FLP - ⚡",
+      "ticker": "t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "731e77f824adf7acc273b70bc564eb2ab27523c5195bdda21174c5bb06b0e5df",
+      "name": "FLP - TXCH ⚒️💵",
+      "ticker": "TXCH/LP t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "73734771c6232945360d6a82c498bfd35a660c4f47fdb85764b7bb4a2eda3a48",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "75d21fef09d33d68f968fc7d3b0d2aca560a22e5c5802b369d93abb3d267433c",
+      "name": "FLP - 🛸⚡",
+      "ticker": "T11/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🛸⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "767194548f95b7cf64dfef2866ecf80304f778320cc55866bbb3ee5bda778b03",
+      "name": "FLP - 💵",
+      "ticker": "t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "78262a5f8eff357634da8ce432ba419a9b1e112e24aa8be21d582b16d6c2c774",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8 8:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "7905ed1ff04ee9f89e8ea811cfb07d7028a739306beaf1e3f3bc83aef2e8176d",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8 3:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "7bc40b8fcd299b57fe50084f66197134bfb1a58263f1be5d54f056fec2bb3c7f",
+      "name": "FLP - TXCH ⚡💵",
+      "ticker": "TXCH/t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "7d5d70c944af48472e09131983c1e554806487a8e8dfd6c28b8b7fdeb33e43fc",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "7e2edde3f9377bb5db0730976caac75c3760da6c2f7986c409b67ccc8bd4af6d",
+      "name": "FLP - TXCH ⚡💵",
+      "ticker": "TXCH/t14/t8 4:1:",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "7e6406b237cb7d20d927b855fac510ec8aecc95e7f65078bdfa605582b9d3cf2",
+      "name": "FLP - 🛸🍕",
+      "ticker": "T11/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🛸🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "7e7a15bd75b73b0e887f23ead57157523b4d0c3656cf43eecd99bdb70fc694cb",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "7f4c27d7ca229468059d6b74827dfd037482d51d55077823ec2c45845ea888fb",
+      "ticker": "💵 t8",
+      "decimals": 3
+    },
+    {
+      "asset_id": "803316cd709f54b9c7cb5e11b97bb4ef21a03bd9100dc24c2a56ce02f6956436",
+      "name": "FLP - ⚡",
+      "ticker": "t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "811dae1026c84c1c8360ccfc3bc39e65d58b9ea9153d8c26a19138121cca863c",
+      "name": "FLP - ⚡",
+      "ticker": "t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "86b5ba29c2067f02882c5f9712c299cbba46f392d5fe67b3501df6e15e94aa46",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8 5:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "8964b8bb64b8d630ca59d0defd0f0f99aac6044c4e565696d4595629cc13cc83",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "8a96f9d4cd6a65d6462aa24c42481c23f97c9205fd1795b8e967cae551774a41",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "8d6d99cbfb9fd62d7b6af6e5908215dcbdd3546a71130454fd14dcc7ca19b81e",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "9664cf21fc951cda2d72e5fe7a1b68831ddc034bac2467b3c41b4c4d16d5e49d",
+      "name": "FLP - TXCH 🍕",
+      "ticker": "TXCH/T6 4:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "969289f721bed5723aa03c73efd7886c204e50ff4e80a8eacfb352b74e7305a7",
+      "ticker": "🍕 T6",
+      "decimals": 3
+    },
+    {
+      "asset_id": "9f9ec5959ba6c24df18d7836dbab94b26cf3bff0e7612a17258df12d64584d67",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14 3:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "a07b485f36f0efd70fa4481178c3d30e1a11c746f5f6f6b5604247d654cc422c",
+      "name": "FLP - TXCH 🛸",
+      "ticker": "TXCH/T11",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸",
+      "decimals": 3
+    },
+    {
+      "asset_id": "a2c91fe9a780f34ac38c5db526c4d4a0d56797f64baa80c4fdcb3a3b666300db",
+      "name": "FLP - TXCH 🛸🍕",
+      "ticker": "TXCH/T11/T6 4:1:",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "a4c6007d0a681b4d4b4db38f3eeb0d549c60739ed06ca257f9678e024125bad3",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14 3:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "a5a9b2065ca22a1ae06b543b1790083292026c55f46c3b5d87132ee13a8d9c76",
+      "name": "FLP - TXCH ⚒️TXCH ⚡",
+      "ticker": "TXCH/LP TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "a5b7b90867d56e961eea827206a5d927daecd7257fd4b9dcd4078c05aa2aadc0",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "aefe380d9c12252417ed760fcd8eea80bb4ec2bc106897daa6b01516117eb6fa",
+      "name": "FLP - TXCH 🛸⚡🍕",
+      "ticker": "TXCH/T11/t14/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸⚡🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b28c13e62f6c0875288c75143bf744ae2907d96d9d5e46c8e5506a33bd119b3f",
+      "name": "FLP - TXCH 🛸⚡🍕",
+      "ticker": "TXCH/T11/t14/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸⚡🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b449ab31797ee53265ed8a49934bb08eeffe341997355c8f6cd900c2ca1fe03c",
+      "name": "FLP - TXCH ⚡💵",
+      "ticker": "TXCH/t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b49145e815b85ac74987ce1a9899ca5f8d9fa7a68798e70343723babb53412b9",
+      "name": "FLP - TXCH 🛸🍕",
+      "ticker": "TXCH/T11/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b58cdd9139b2fa19d176582323872ffa43204e99cd3ffa41e7219f0f06d975be",
+      "name": "FLP - 💵",
+      "ticker": "t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b5af908fd2304190935a9e835ecb793fcb8fc20cc82f56673a01dd706c79fd77",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8 8:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b731c8db450c3684ea4e15bbb6057fa4f4c908f36e97565ad66458d4dd546539",
+      "name": "FLP - ⚡🍕",
+      "ticker": "t14/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b749ed721652bae877b73624699f1981a0794e9c4e7cce64fb24ba38a188d297",
+      "name": "FLP - TXCH ⚡💵",
+      "ticker": "TXCH/t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b94b79afcf8df88520d21e09852d2e0a4b5f9fa04eb73bc978e6d0d2ee809852",
+      "name": "FLP - TXCH 🍕",
+      "ticker": "TXCH/T6 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "bbf9f8a5f40aace29347ec263dd0698399227b259bed58eb643edf63a5e754f9",
+      "name": "FLP - 🛸💵",
+      "ticker": "T11/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🛸💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "bc724d9c9014cd8e7c51ccc354e03dda4e5656aea19fbe07faf748107954da7c",
+      "name": "FLP - TXCH 🛸🍕",
+      "ticker": "TXCH/T11/T6 4:1:",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "bcdabef6865c11bc9da5517d9c2a4758cc870fc3bd82711a23468000f15f79cb",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "bd5675a47cae732159fe02a1a156fa964cd6bc7c2e3c5225a893d971d848af55",
+      "name": "FLP - TXCH ⚡💵",
+      "ticker": "TXCH/t14/t8 4:1:",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "bec53f9243dbf64c5b453971d4b3ceab987fd1ef68b20775014528efa0935484",
+      "name": "FLP - TXCH 🍕",
+      "ticker": "TXCH/T6 4:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "bff58d87bd3b2abbf50aacd2e34d58a9bfb9a28db41217ea8726f19cdab9d0d2",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "c53e78326068989951457908f6e2eaf89ea66fc00cf1211cbf595428f3465592",
+      "name": "FLP - TXCH 🍕",
+      "ticker": "TXCH/T6 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "c6d2879e37efafa61f8ac8ff265d6e6352294f7e1a768ce462a8d0baf2b01b5c",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "c85c88d81bb845658e02510af9b8b3508a954c81ce221caae7084500e946a821",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "c8ca0034158f0604b2734e4b7fdb4eacf361a1b54242b99cfc2b9f4cd3d7b7b3",
+      "name": "FLP - 🍕",
+      "ticker": "T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "cb205f43d85707b2c1214d394b858bbac83f31043d816dca7d17d7b7839fb5dc",
+      "name": "FLP - TXCH ⚒️⚡",
+      "ticker": "TXCH/LP t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d32b8da121d683f39751aefb947c8c32ae93372ab82e9e8bf20ba2a14f33a6dd",
+      "name": "FLP - TXCH ⚒️🍕",
+      "ticker": "TXCH/LP T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d69ad00597efcbe489ff11db926ee0b072a9ad04e1cf94f859345005fb85d86c",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d6d657a01fceb36538f0850cd9220129af55a5076952c5928a4a5b8d1e3e5de3",
+      "name": "FLP - TXCH 🛸🍕",
+      "ticker": "TXCH/T11/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d80dbd778605784046d749c651f55447865b157fa100f8d4051a8f56a28dc01e",
+      "name": "FLP - TXCH ⚒️⚡",
+      "ticker": "TXCH/LP t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d9e9031f9ca4f62bf98b7518e69520507515bb1e1150835f330801b7492aa5b1",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "db052935b17d71c58d48039e2b066591ca896adb9712162e33ac125133ffb056",
+      "name": "FLP - 🍕",
+      "ticker": "T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "dcc6b02d44c7335c1db867f5fad4f463038baee936cf5fc3a3967505541b0619",
+      "name": "FLP - TXCH ⚒️💵",
+      "ticker": "TXCH/LP t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "ddcce978b58d0f23d266662d6058c10ffc1bc192d9bea9a3720392f40e48be76",
+      "name": "FLP - TXCH ⚒️🍕",
+      "ticker": "TXCH/LP T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "df183bcfdadb1915e3bfc54a33609c007819b97386955f649cd2cdc13b37d6fc",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8 5:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e0c6acd97f97a4613e1e72437da7173f1259b16a95a67502e283d332f603ba83",
+      "name": "FLP - TXCH 🍕",
+      "ticker": "TXCH/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e11df44751d18e29a46b1108672823f8368ba0fbfdd59030345af4ab12e0e813",
+      "name": "FLP - TXCH 🛸",
+      "ticker": "TXCH/T11",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e23f0301810b0892e94955499567855c7f65ede0f2db2c0ae5c023b657e7502a",
+      "name": "FLP - TXCH 🍕",
+      "ticker": "TXCH/T6",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e3a1ad6cba16b751bd5066988ffd99c7e8702a8c07aa584d7a3b8b4a1a744150",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e7a513d5ba03f2f5af86d61132bbbba5c67531eef27716cc38405820d021a551",
+      "name": "FLP - ⚡💵",
+      "ticker": "t14/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ⚡💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "eab9c66880024c76f92dcf9ccb68951b991705c774901d43c4c671eb855d9108",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "ec8e2cac2b25f7047f29b90dff4771124050a11122f15da58606fc5dca2c30d5",
+      "name": "FLP - TXCH 🛸",
+      "ticker": "TXCH/T11",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 🛸",
+      "decimals": 3
+    },
+    {
+      "asset_id": "eef0afcb098523bb404d1003ccb3a4a4f80d45fbbabba206ed5248717961571f",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "f19631af98d39745912f5b7fb00f7641d5496a4efca9e43706516896fd395a2e",
+      "name": "FLP - TXCH ⚡",
+      "ticker": "TXCH/t14 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "f36ba735642eacad2f718c1af1ecf6f028f7b35344b494098b0da27f1e74daee",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "f3753430de9c7960bab941a83203d864d9971dd1e4fdc2cf3f0e7890ca9a83f2",
+      "name": "FLP - TXCH ⚒️⚡",
+      "ticker": "TXCH/LP t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH ⚒️⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "f53af3da2696db7209c0b7889be07f7c29f32fa89dfbc80bd27cfce4b0135eba",
+      "name": "FLP - 🛸💵",
+      "ticker": "T11/t8",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🛸💵",
+      "decimals": 3
+    },
+    {
+      "asset_id": "fa24a86d0abf1e06525195a617055f9f65717de55fd695f6d1fb0de5b259ab8a",
+      "name": "FLP - 🛸⚡",
+      "ticker": "T11/t14",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: 🛸⚡",
+      "decimals": 3
+    },
+    {
+      "asset_id": "fca5778776e709877d11978b56147168c3753490110c396495cac98d73b1cd4d",
+      "name": "FLP - TXCH 💵",
+      "ticker": "TXCH/t8 2:1",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: TXCH 💵",
+      "decimals": 3
+    }
+  ]
+}
