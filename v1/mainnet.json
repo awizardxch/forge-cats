@@ -5,10 +5,18 @@
     "url": "https://github.com/awizardxch/forge-cats"
   },
   "network": "mainnet",
-  "generated_at": "2026-10-22T07:13:31.998Z",
+  "generated_at": "2026-10-28T04:01:46.005Z",
   "ttl_seconds": 86400,
   "xch_usd": null,
   "tokens": [
+    {
+      "asset_id": "12b94a631960258935eddde77ecadf120c12676efd11752c099a3025a6a02d8e",
+      "name": "FLP - BYC XCH",
+      "ticker": "⚒️BYC XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: BYC XCH",
+      "decimals": 3
+    },
     {
       "asset_id": "13f588bbaeec8672ed15f4915eda4e06ae29ee5dfe82b956b1222c2831dd428d",
       "name": "FLP - 💎🛸🪙",
@@ -164,6 +172,14 @@
       "decimals": 3
     },
     {
+      "asset_id": "8cd676d8388a9e8aad0bc19b3a752aeeb84a11255e2bbaf0abd9119f58244071",
+      "name": "FLP - BYC wUSDC.b",
+      "ticker": "⚒️BYC wUSDC.b",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: BYC wUSDC.b",
+      "decimals": 3
+    },
+    {
       "asset_id": "8df67763ad273f4a08f8f19f8a172d80b38ad940f32fe20b0b2ed3d665edf575",
       "name": "Choco Taco",
       "ticker": "🍫🌮",
@@ -202,6 +218,15 @@
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/deb02b97ddf33dd8ab45219e3febeb4bdc077bc78e6f8b1b7d39cbf7942407b7.webp",
       "description": "Seeding Potential Randomness Over Usage Time S.P.R.O.U.T. is the Ultimate Meme Token on the Chia Blockchain. Where the only constant is the unpredictability of its growth and the randomness of price. Expect no return but rather chaos through the wild journey on the green network",
       "website": "https://twitter.com/aWizardxch",
+      "decimals": 3
+    },
+    {
+      "asset_id": "ae1536f56760e471ad85ead45f00d680ff9cca73b8cc3407be778f1c0c606eac",
+      "name": "Bytecash",
+      "ticker": "BYC",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/7b0dc496187ecf731a9fbc41fd06c4bedc8dc605972aa43a5540394cdd09e402.webp",
+      "description": "A decentralized finance protocol on Chia blockchain. Mint Bytecash, a dollar-pegged stablecoin, using your XCH as collateral, or deposit Bytecash to earn sustainable yield from protocol revenues.",
+      "website": "https://circuitdao.com",
       "decimals": 3
     },
     {
@@ -251,6 +276,14 @@
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/428bc9bed6e25c5fffd7711861941c66edbbd3ffb9b541d4af93d10eab563500.webp",
       "description": "BEPE, the memecoin Chia BitTorrent wizard would unleash if he ever released his inner degen",
       "website": "https://bepearmy.com/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d9eca1d5058f95d4546637cef4fc70c309d960ff4d925f03fc7d6208ae5b4bf2",
+      "name": "FLP - wUSDC.b XCH",
+      "ticker": "⚒️wUSDC.b XCH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: wUSDC.b XCH",
       "decimals": 3
     },
     {
@@ -307,6 +340,15 @@
       "ticker": "⚒️🌱XCH",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
       "description": "Forge LP: 🌱 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "fa4a180ac326e67ea289b869e3448256f6af05721f7cf934cb9901baa6b7a99d",
+      "name": "Base Warped USDC",
+      "ticker": "wUSDC.b",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/3fc9ae43136e22ac292f6031fe7a1c738960d4f472b1084bd02993060cdd9f63.webp",
+      "description": "USDC bridged from Base (L2) via warp.green\n\\n https://www.warp.green/bridge/assets",
+      "website": "https://www.warp.green/",
       "decimals": 3
     }
   ]
