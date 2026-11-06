@@ -5,10 +5,36 @@
     "url": "https://github.com/awizardxch/forge-cats"
   },
   "network": "mainnet",
-  "generated_at": "2026-10-28T04:01:46.005Z",
+  "generated_at": "2026-11-06T05:31:37.104Z",
   "ttl_seconds": 86400,
   "xch_usd": null,
   "tokens": [
+    {
+      "asset_id": "001f4b4f03e1b5bdae1e4a757e9b3d7e5a62032332fb89887c5262bd736f0d68",
+      "name": "MECH",
+      "ticker": "MECH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/7901fdff23844fe03ff297150f0e808413f361582726279e9eba106db4b6e4d3.webp",
+      "description": "\"Step into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art; they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear representing",
+      "website": "https://twitter.com/bytesandblocks",
+      "decimals": 3
+    },
+    {
+      "asset_id": "048b1358f3b55a70c4db22114c2f52569c0398ba19e8212b8daf1cb25c90a641",
+      "name": "HonK",
+      "ticker": "HonK",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/cb60b42de0f230a34e057bf076640fe7ab0b29fa197eeb3274c661c9986dcd37.webp",
+      "description": "HonK",
+      "website": "https://twitter.com/alphagooses",
+      "decimals": 3
+    },
+    {
+      "asset_id": "111182af24e72c47d98d827af0f0295459077619505f42623fd6e6b16bcba9b3",
+      "name": "FLP - ❤️ DEVIL",
+      "ticker": "⚒️❤️ DEVIL",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ DEVIL",
+      "decimals": 3
+    },
     {
       "asset_id": "12b94a631960258935eddde77ecadf120c12676efd11752c099a3025a6a02d8e",
       "name": "FLP - BYC XCH",
@@ -26,6 +52,15 @@
       "decimals": 3
     },
     {
+      "asset_id": "14142d7922b2487d1a145db198f7cc232a99a2798ec7da90279af45270e53465",
+      "name": "GOLD",
+      "ticker": "GOLD",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/46c627c157d73921bd9a53bf5f79a9cb482c73a08d7e8ebf62ec3671997261c3.webp",
+      "description": "\"GOLD Token\\nStep into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
       "asset_id": "1653a1df583f3ae6a822ab214b74d2a08fb4309025d54f2db140e5e6bc06e9da",
       "name": "🧙‍♂️",
       "ticker": "MANA",
@@ -39,6 +74,14 @@
       "ticker": "⚒️🧙‍♂️✨❤️‍🔥",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
       "description": "Forge LP: 🧙‍♂️✨❤️‍🔥🧙‍♂️",
+      "decimals": 3
+    },
+    {
+      "asset_id": "19ca49275b2f186e77e0ccec09a481d73017a95834668cf682a9e67110aa6aa9",
+      "name": "FLP - ❤️ KING",
+      "ticker": "⚒️❤️ KING",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ KING",
       "decimals": 3
     },
     {
@@ -67,11 +110,61 @@
       "decimals": 3
     },
     {
+      "asset_id": "20cacc71d2df0d1788b23d10ecab61179440c4ed5709a51a8316fbff55be7748",
+      "name": "FLP - ❤️🥷",
+      "ticker": "⚒️❤️🥷",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️🥷",
+      "decimals": 3
+    },
+    {
+      "asset_id": "2138c85119fa5228d626b552a745e892bbe60647040d32fbe7eed9e47460665a",
+      "name": "FLP - ❤️🍊",
+      "ticker": "⚒️❤️🍊",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️🍊",
+      "decimals": 3
+    },
+    {
+      "asset_id": "216475ebcf59f28e0fb2f99f9a742a59f42e7906ccaff353e535aa83af3c83bb",
+      "name": "MELT",
+      "ticker": "MELT",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/303c0a7984e43bf511c5c2e54a649660149c9f8ea0a6f6b89e294d2aa9c98a22.webp",
+      "description": "\"MELT Token\\nStep into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
       "asset_id": "231504fee3aae24fafed39872a933c20d66d816107c257d87582e9a4ce8ba5ff",
       "name": "FLP - Gyatt BEPE",
       "ticker": "⚒️Gyatt BEPE",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
       "description": "Forge LP: Gyatt BEPE",
+      "decimals": 3
+    },
+    {
+      "asset_id": "2444e71c79fcb69339cc4768445b9a14e85805bfcc09b0b05b7824e4706bc908",
+      "name": "DEVIL",
+      "ticker": "DEVIL",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/1bc7b2694767149887122dbb82c76113c73577d2e74c3bbf8c7da6e83d3b8ca9.webp",
+      "description": "\"Step into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art; they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear representing",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "2a05cac8e3a8df528dae8f96bccf6c26950e8e9770a48581a44f351d401c1b79",
+      "name": "FLP - ❤️🍕",
+      "ticker": "⚒️❤️🍕",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "36a739aa0bc0ad1fd298af32b4327b266ef8b3bf5e3517e44f031c59a817a05e",
+      "name": "FLP - ❤️ BIKER",
+      "ticker": "⚒️❤️ BIKER",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ BIKER",
       "decimals": 3
     },
     {
@@ -91,11 +184,45 @@
       "decimals": 3
     },
     {
+      "asset_id": "3b19b64418682ad60c6278d85f8076a108c9fb4ca385d401c6d41ba2bfa9612e",
+      "name": "JOCK",
+      "ticker": "JOCK",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/1277c8a584df6cc02c5777bbec38c1da3430eba7089b742117d44af31d411a67.webp",
+      "description": "$JOCK isn’t here to blend in — it’s built for conviction. A no-excuses, high-discipline memecoin on Chia that stands for strength, faith, and showing up when it counts. JOCK represents the mindset: sharpen the body, steady the mind, and stay grounded in something bigger than your",
+      "website": "https://twitter.com/bytesandblocks",
+      "decimals": 3
+    },
+    {
       "asset_id": "3be1a7565bcb640702ae8f301ff82b194f41bbfb3e4c93d6c03652addf1affb3",
       "name": "FLP - BEPE XCH",
       "ticker": "⚒️BEPE XCH",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
       "description": "Forge LP: BEPE XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "3c1c06e7048fd609fd6287fd0a511e46f163b853dd11300052b5fde8f5c5d314",
+      "name": "FLP - ❤️ CHIEF",
+      "ticker": "⚒️❤️ CHIEF",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ CHIEF",
+      "decimals": 3
+    },
+    {
+      "asset_id": "42c6e84ae069d15113f90fe9617e539a891adbfdbc0639495afe6686036dd34a",
+      "name": "CHIEF",
+      "ticker": "CHIEF",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/31c3b0a7eb87fa639a12ed7dcbc9d9fee1ac292f74f59a74c5dbef7620204f5b.webp",
+      "description": "\"Step into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art; they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear representing",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "42d27a07df25f200aca38fd8a1597fc78ae0074ce595ddf7d87ca85531000206",
+      "name": "FLP - ❤️ PUNK",
+      "ticker": "⚒️❤️ PUNK",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ PUNK",
       "decimals": 3
     },
     {
@@ -107,11 +234,61 @@
       "decimals": 3
     },
     {
+      "asset_id": "49f84392fa4dd3b5b9ab4dda821550c3a06ad0681ec074636a44cf9821a63e71",
+      "name": "ANGEL",
+      "ticker": "ANGEL",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/03a87496c267540b41f0914e603a52cea8018aabed3d59f4e05c78ea04636faf.webp",
+      "description": "\"Step into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art; they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear representing",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "4a4e96accfd9f3bf5e963015eb1d97673362c0bae3c844b40a95a81a20635074",
+      "name": "FLP - ❤️🍫🌮",
+      "ticker": "⚒️❤️🍫🌮",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️🍫🌮",
+      "decimals": 3
+    },
+    {
+      "asset_id": "4d38ad9998bd93d3a424a788884f2386fbe076b9edcd36580ae02844388d23af",
+      "name": "ZOMB",
+      "ticker": "🧟",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/48e15b36d5fd69e07b5c25237b30c59e4f0e869c77496055ce1a54fd7785eb4c.webp",
+      "description": "\"Step into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear representing",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
       "asset_id": "54d63adab6eaa7ecd4af533c53aaf25e7907859101fff2c49c993d23ad687191",
       "name": "FLP - 🍫🌮 XCH",
       "ticker": "⚒️🍫🌮XCH",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
       "description": "Forge LP: 🍫🌮 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "563b590f649b50ba089b06acb19be61c4ab745bab9ec4e475b0f0da6d9095dd8",
+      "name": "FLP - ❤️🍌",
+      "ticker": "⚒️❤️🍌",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️🍌",
+      "decimals": 3
+    },
+    {
+      "asset_id": "5780953abd9fb1cc950991d6aa85e065a4fafccbc2bce90978aedfabf18e30d9",
+      "name": "FLP - ❤️ MOJO",
+      "ticker": "⚒️❤️ MOJO",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ MOJO",
+      "decimals": 3
+    },
+    {
+      "asset_id": "59e3d9e9f03903adbc31018c633d11af113fc862e9bc752bb7be773b06bc57a5",
+      "name": "FLP - Luv Caster",
+      "ticker": "⚒️❤️✨❤️‍🔥🧙‍♂️",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: Luv Caster",
       "decimals": 3
     },
     {
@@ -123,11 +300,46 @@
       "decimals": 3
     },
     {
+      "asset_id": "652829318a1cecc6c640ccb0aba8947833a80ca2274708f90ab44b14b8d74e32",
+      "name": "BIKER",
+      "ticker": "BIKER",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/bcd89db3429dff81cb31ced95ae13706e99bd86beb0cfcd6bd859a931d440729.webp",
+      "description": "\"BIKER Token\\nStep into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "6ae636f1eb6f00b72ff015f64bb86af4f46343697ce576173359b329c89f01a8",
+      "name": "PUNK",
+      "ticker": "PUNK",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/b29ac8371130f3839cd8e479b6544e86065653fb67581143503c7fd17bd69a8c.webp",
+      "description": "\"PUNK Token\\nStep into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "6b0ce837517e944fd1b3e258fb31164300e2ffbfd526de9a6be0e1fffd309c4c",
+      "name": "FLP - ❤️ GOLD",
+      "ticker": "⚒️❤️ GOLD",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ GOLD",
+      "decimals": 3
+    },
+    {
       "asset_id": "6bb8e6fe13f11c9d58c0adaab5f5084292a63beb634731d64499e9377f5a60bf",
       "name": "FLP - 💎 XCH",
       "ticker": "⚒️💎XCH",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
       "description": "Forge LP: 💎 XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "6c0af0c08407cb16da6f7021b6e6c1ab49dddc641645a2c28d178e896ec5379e",
+      "name": "KING",
+      "ticker": "KINGBEAR",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/bbff9c37ff1ad1577984c5066807bb20771bd1e047c3453b03b5780b80e8891d.webp",
+      "description": "\"Step into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art; they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear representing",
+      "website": "https://twitter.com/bytesandblocks",
       "decimals": 3
     },
     {
@@ -148,6 +360,14 @@
       "decimals": 3
     },
     {
+      "asset_id": "71d163fcf9eb1e456a7ecc37b5f00756a0c3b572ce5f89914b95df95834197d9",
+      "name": "FLP - ❤️ ANGEL",
+      "ticker": "⚒️❤️ ANGEL",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ ANGEL",
+      "decimals": 3
+    },
+    {
       "asset_id": "75c74892331a0509504ca78412c24b8892a47fc66ce97764b89cda01059831d7",
       "name": "FLP - 🪙 XCH",
       "ticker": "⚒️🪙XCH",
@@ -164,11 +384,29 @@
       "decimals": 3
     },
     {
+      "asset_id": "7f147901d20472fab470543c5eae51309ee54d4aecfa186f7366e2676141e139",
+      "name": "BEAR",
+      "ticker": "BEAR",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/14e42958c0e9e6cd12265ae8dec5a2dac713211b962a4d0b194cf49306c65828.webp",
+      "description": "\"BEAR Token\\nStep into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
       "asset_id": "809060ebd276f49d133b2fa32d1c5d90797a3561adece5fa4f0d84fc6790692b",
       "name": "FLP - ⚒️🧙‍♂️",
       "ticker": "⚒️🧙‍♂️",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
       "description": "Forge LP: ⚒️🧙‍♂️",
+      "decimals": 3
+    },
+    {
+      "asset_id": "84e4b6e52378b3325d5173cc9c142d51fb8159a5bd25c00a21564a2cc889d8df",
+      "name": "ZEN",
+      "ticker": "ZEN",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/17a6cc877753a48c8f372a0fb70524e51119b4e9a8fbf714d09cc079c5e3e32c.webp",
+      "description": "\"Step into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear representing",
+      "website": "https://twitter.com/bytesandblocks",
       "decimals": 3
     },
     {
@@ -185,6 +423,38 @@
       "ticker": "🍫🌮",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/05866eea19eccd9db64ab52ec7827096f8757a36c0d28afba6831dac36f7da0b.webp",
       "description": "The Choco Taco stopped production in 2022 we have now brought it back only on the @chia_project blockchain in token form there are only 2022 🍫🌮",
+      "decimals": 3
+    },
+    {
+      "asset_id": "8fb27c882a8290ea0f1aa0dfbe88732bb258c66bf2a6c16a55e646f0e3e2c146",
+      "name": "FLP - ❤️ HONK",
+      "ticker": "⚒️❤️ HONK",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ HONK",
+      "decimals": 3
+    },
+    {
+      "asset_id": "91e3ed7f5a6903d6042dbbb9aa4ead3cedc1e8be8c4deaccb2f594843c71e2ed",
+      "name": "FLP - ❤️ ZEN",
+      "ticker": "⚒️❤️ ZEN",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ ZEN",
+      "decimals": 3
+    },
+    {
+      "asset_id": "927c782bd0b503d26b0a490393058b9ed92abccf87f3b9b4825a00919e522c76",
+      "name": "FLP - ❤️ BEPE",
+      "ticker": "⚒️❤️ BEPE",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ BEPE",
+      "decimals": 3
+    },
+    {
+      "asset_id": "940521df3f7a1c153279224762801686a0e8d59d14cfe7a293cc60e622b2f4d9",
+      "name": "FLP - ❤️ MECH",
+      "ticker": "⚒️❤️ MECH",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ MECH",
       "decimals": 3
     },
     {
@@ -212,6 +482,22 @@
       "decimals": 3
     },
     {
+      "asset_id": "a179966a1f78158faab503d9b55456ef5e98b4b1614582adf6e50e77bc8abd4d",
+      "name": "FLP - ❤️ MELT",
+      "ticker": "⚒️❤️ MELT",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ MELT",
+      "decimals": 3
+    },
+    {
+      "asset_id": "a66ce97b58a748b3bb2a8224713620cca0ca00cb87e75837b1f04e3a543aaa40",
+      "name": "BANANA",
+      "ticker": "🍌",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/18a5791ab271921ddc34012b9016cd861a64adb41c0f082833d85768b6351b3d.webp",
+      "description": "\"Banana Token on Chia is akin to a green banana, on the verge of ripeness. It represents the imminent transformation from potential to fruition. Just as a green banana promises sweetness, this token foreshadows delicious opportunities in the near future, ripe for investors to sav",
+      "decimals": 3
+    },
+    {
       "asset_id": "ab558b1b841365a24d1ff2264c55982e55664a8b6e45bc107446b7e667bb463b",
       "name": "SPROUT",
       "ticker": "🌱",
@@ -227,6 +513,14 @@
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/7b0dc496187ecf731a9fbc41fd06c4bedc8dc605972aa43a5540394cdd09e402.webp",
       "description": "A decentralized finance protocol on Chia blockchain. Mint Bytecash, a dollar-pegged stablecoin, using your XCH as collateral, or deposit Bytecash to earn sustainable yield from protocol revenues.",
       "website": "https://circuitdao.com",
+      "decimals": 3
+    },
+    {
+      "asset_id": "b0495abe70851d43d8444f785daa4fb2aaa8dae6312d596ee318d2b5834cc987",
+      "name": "DWB",
+      "ticker": "DWB",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/c583cee1948040ad23c8c0210f2418f062a166edc95f8507af8e4462c1bb446c.webp",
+      "description": "Bringing back the old-school 2008 dickbutt meme. \\n\\n$DWB on PulseChain 0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68",
       "decimals": 3
     },
     {
@@ -246,6 +540,14 @@
       "decimals": 3
     },
     {
+      "asset_id": "b8091209364e0735d7377eb4f2d0cf71b99ea9726fc438d2f9ff810ef517961c",
+      "name": "FLP - ❤️ DWB",
+      "ticker": "⚒️❤️ DWB",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ DWB",
+      "decimals": 3
+    },
+    {
       "asset_id": "b8d8dce139e59b68340bf934b26a33223edfaa614c839eccbada655d75c90f9d",
       "name": "FLP - Gyatt XCH",
       "ticker": "⚒️Gyatt XCH",
@@ -262,11 +564,28 @@
       "decimals": 3
     },
     {
+      "asset_id": "be7068a2e967c94b31665107150f93b18b583cccbb8cabd8f7d66c7e11b78aed",
+      "name": "FLP - ❤️ MWIF",
+      "ticker": "⚒️❤️ MWIF",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ MWIF",
+      "decimals": 3
+    },
+    {
       "asset_id": "cb0ede34fda366f9733f602c82ecf5c5e00f0710bf5a03e40afe54239eca6ccd",
       "name": "UFO",
       "ticker": "🛸",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/7ef9c8447388f951a30d58a5a331216827a4b8ee9bab49c74afa1d48a0ad9068.webp",
       "description": "WARNING: First Contact has been established. The Casters opened the portal, UFOs came through, and now the S.E.C. is investigating reports of alien meme activity. Holders may experience tractor beams, missing cows, moon missions, and severe candles. This is not financial advice.",
+      "decimals": 3
+    },
+    {
+      "asset_id": "cb21f3625d7b4e8f843dda59b4b7866862f16c376077134cc8735e2b3a29c011",
+      "name": "WAR",
+      "ticker": "WAR",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/4c72422cd33fdedf6cb22cfc41df8df86c2c46f363b0b6a2f06d5eb909af8da6.webp",
+      "description": "WAR is a Token that is gaining popularity and has many plans for the future.\n\nWith WarBear NFT you get $WAR every day and participate in weekly NFT draws.\n\nTo The Moon! 🚀",
+      "website": "https://twitter.com/bytesandblocks",
       "decimals": 3
     },
     {
@@ -279,11 +598,53 @@
       "decimals": 3
     },
     {
+      "asset_id": "cf3b63c86f6343bef5121eabb413ba796726a7eeadf9ca8350ae429ed08e523c",
+      "name": "FLP - ❤️ SPACE",
+      "ticker": "⚒️❤️ SPACE",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ SPACE",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d406810167b95bb1ab5fb978932618015ea52db6eeb13d74ff551c8802951750",
+      "name": "FLP - ❤️🧟",
+      "ticker": "⚒️❤️🧟",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️🧟",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d4f1f6d29e6392c477b84dc65a4379eaba570d29f7930895d89148ab5ed4b343",
+      "name": "SPACE",
+      "ticker": "SPACE",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/98fb4c10db518b73bcc0748b8f3d147bbf1eb95390508a419f7b39135c8c9878.webp",
+      "description": "\"SPACE Token\\nStep into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear",
+      "website": "https://www.tanggangchia.com/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "d92268a1df8aa91aa410fcfaaa57583562bdfe9bacb458453f3518c4a3256124",
+      "name": "CheeZe",
+      "ticker": "🧀",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/a7678485b4061a6df3ef552e0308a902922137346120607c4967e3572442a7bc.webp",
+      "description": "CheeZe - utility token which can be used for Galaxy Dealer Market @ SpaceRatZNFT",
+      "website": "https://spaceratznft.xyz/",
+      "decimals": 3
+    },
+    {
       "asset_id": "d9eca1d5058f95d4546637cef4fc70c309d960ff4d925f03fc7d6208ae5b4bf2",
       "name": "FLP - wUSDC.b XCH",
       "ticker": "⚒️wUSDC.b XCH",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
       "description": "Forge LP: wUSDC.b XCH",
+      "decimals": 3
+    },
+    {
+      "asset_id": "dbc10b12861b0ba902bb14a8feeb75df6bf014a0ef14716d6242b9ada3a34de3",
+      "name": "DBC Art Coin",
+      "ticker": "MOJO",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/4281f9d4475d5e16d5452b3b34ebbe8970bbb62354d299e7093c9fcc11c431b2.webp",
+      "description": "\"The Mojo coin is an eccentric coin born in the carnivalesque atmosphere of the 1 Mojo Club collection. The coin can be used for art purchases, and for barter, but most of all for fun. The coin has no value other than the value you give it at the time that you use it. It is the e",
       "decimals": 3
     },
     {
@@ -304,10 +665,18 @@
     },
     {
       "asset_id": "dd37f678dda586fad9b1daeae1f7c5c137ffa6d947e1ed5c7b4f3c430da80638",
-      "name": "PIZZA 🍕",
+      "name": "PIZZA",
       "ticker": "🍕",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/93de7fab81c527751c1e8e7c82a82a1504d1d8b69c1adc9244bb8bce9aa85950.webp",
       "description": "PIZZA 🍕",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e233f9c0ebc092f083aaacf6295402ed0a0bb1f9acb1b56500d8a4f5a5e4c957",
+      "name": "Marmot Wif Hat",
+      "ticker": "MWIF",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/86fdf4b82e9d37b1627712d3e1996da2870e39e399217c8a879845dedd8c8a1b.webp",
+      "description": "Marmot wif Hat on Chia is a memecoin that encapsulates the playful essence of marmots wearing hats",
       "decimals": 3
     },
     {
@@ -316,6 +685,23 @@
       "ticker": "💎",
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/2508c48b5bca3d0604834720e2ab1d003ce132074c407626853b812c98907d13.webp",
       "description": "Introducing HODL 💎, a liquidity reward memecoin built for people who actually show up, designed to reward presence over promises and participation over passive holding. Instead of short-term farming or idle wallets, HODL distributes rewards exclusively to liquidity providers thr",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e34b9589b78454a311d7e120072f94b2bfdb5d01c91a5fa64d1bb4be46c749cd",
+      "name": "FLP - ❤️🧀",
+      "ticker": "⚒️❤️🧀",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️🧀",
+      "decimals": 3
+    },
+    {
+      "asset_id": "e816ee18ce2337c4128449bc539fbbe2ecfdd2098c4e7cab4667e223c3bdc23d",
+      "name": "HOA",
+      "ticker": "🍊",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/be9f3b70f7889ac5eaed90837d444b44185fa67a944aa9f3a395ea3a3b907881.webp",
+      "description": "\"The HOA COIN was created to spread awareness of HOA COIN (Official Hex Orange Address\\n0x7901a3569679AEc3501dbeC59399F327854a70fe) to the Chia Community, spreading #TangGang cross chain.\"",
+      "website": "https://twitter.com/bytesandblocks",
       "decimals": 3
     },
     {
@@ -335,6 +721,22 @@
       "decimals": 3
     },
     {
+      "asset_id": "f240f35400989e68b12c85c925e1e515abf3f30f6a7ac22e16a0d2bb1ef8161a",
+      "name": "FLP - ❤️🐻",
+      "ticker": "⚒️❤️🐻",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️🐻",
+      "decimals": 3
+    },
+    {
+      "asset_id": "f2cd16f9deab1a120ce03467f73da0b47fcece2dc563c6cded21439b10efd33c",
+      "name": "FLP - ❤️ WAR",
+      "ticker": "⚒️❤️ WAR",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ WAR",
+      "decimals": 3
+    },
+    {
       "asset_id": "f994df020df3b4616c445b5a2a955fbb4216beb1ce3ee3ac4aa75f8b2bc67db5",
       "name": "FLP - 🌱 XCH",
       "ticker": "⚒️🌱XCH",
@@ -349,6 +751,23 @@
       "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/3fc9ae43136e22ac292f6031fe7a1c738960d4f472b1084bd02993060cdd9f63.webp",
       "description": "USDC bridged from Base (L2) via warp.green\n\\n https://www.warp.green/bridge/assets",
       "website": "https://www.warp.green/",
+      "decimals": 3
+    },
+    {
+      "asset_id": "fe5681bdc5912d59678503ee45933c1c2b044852614f333f419db11971e16b68",
+      "name": "FLP - ❤️ JOCK",
+      "ticker": "⚒️❤️ JOCK",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/branding/tools-64.png",
+      "description": "Forge LP: ❤️ JOCK",
+      "decimals": 3
+    },
+    {
+      "asset_id": "fe789863dd6ee42cd54f31a7ecb42dbb37554ccac0a9d03de5d67a534ddbe7af",
+      "name": "NINJA",
+      "ticker": "🥷",
+      "icon_url": "https://raw.githubusercontent.com/awizardxch/forge-cats/main/logos/bdfb1623b36633c2c509ddea6343d1c9eefe4eb18bfcd198ae10e1624dc76304.webp",
+      "description": "\"Step into the enchanting world of \"\"Tang Bears\"\" by the extraordinary Alfonso, where whimsical charm and warm camaraderie reign supreme. These digital bears are not just art, they're a testament to the tight-knit Tang Gang community's spirit. With each adorable bear representing",
+      "website": "https://twitter.com/bytesandblocks",
       "decimals": 3
     }
   ]
